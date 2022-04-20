@@ -1,0 +1,16 @@
+.bookMarkList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card-container {
+  width: 40%;
+  height: 30vh;
+  margin-bottom: 8vh;
+}
+
+.delete-button {  
+  margin-top: auto;
+  border-radius:50%;
+}

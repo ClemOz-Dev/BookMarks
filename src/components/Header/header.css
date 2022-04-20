@@ -1,0 +1,23 @@
+.header {
+  background-color: white;
+  height: 20%;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+img {
+  width: 250px;
+}
+
+.field {
+  flex: 1;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+input, button {
+  font-family : inherit;
+  font-size   : 150%;
+}
