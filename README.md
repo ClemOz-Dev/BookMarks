@@ -1,4 +1,5 @@
 BookMarks creation app
+ReactJS + TypeScript
 
 
 # Getting Started with Create React App
